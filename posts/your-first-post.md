@@ -1,12 +1,14 @@
 <!--
-.. title: Your First Post
+.. title: Primer Post
 .. slug: your-first-post
 .. date: 2016-08-29 15:29:40 UTC
-.. tags: 
+.. tags: github,netlify
 .. category: 
 .. link: 
 .. description: 
 .. type: text
 -->
 
-Write your post here.
+# Primer post!
+
+1 2 3 probando!
